@@ -1,0 +1,37 @@
+{
+  "name": "wallet-app-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "^1.6.43",
+    "@types/chai": "^4.1.3",
+    "@types/core-js": "^0.9.46",
+    "@types/jquery": "^3.3.1",
+    "@types/mocha": "^5.2.0",
+    "@types/node": "^10.0.3",
+    "angular": "^1.6.10",
+    "angular-resource": "^1.6.10",
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "inversify": "^4.13.0",
+    "inversify-express-utils": "^6.0.0",
+    "mocha": "^5.1.1",
+    "ng-metadata": "^4.0.1",
+    "path": "^0.12.7",
+    "reflect-metadata": "^0.1.12",
+    "rxjs": "^5.0.1",
+    "ts-loader": "^4.2.0",
+    "ts-node": "^6.0.2",
+    "typescript": "^2.8.3",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.1.2"
+  }
+}
